@@ -1,0 +1,19 @@
+{
+  "name": "hi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "q1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ikhyeons/prepare-codingTest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ikhyeons/prepare-codingTest/issues"
+  },
+  "homepage": "https://github.com/ikhyeons/prepare-codingTest#readme"
+}
