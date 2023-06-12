@@ -23,7 +23,7 @@ function dfs(arr, depth) {
   }
 
   for (let i = 0; i < arr.length; i++) {
-    if (arr[i] > lastCheck[lastCheck.length - 1]) {
+    if (arr[i] >= lastCheck[lastCheck.length - 1]) {
       selected.push(arr[i]);
       lastCheck.push(arr[i]);
       dfs(arr, depth + 1);
